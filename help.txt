@@ -1,0 +1,14 @@
+frontend\src\ChatsPage.jsx -->  projectId='52c2b1c4-a1f9-40d2-89ee-31162ee5612d'
+
+backend\index.js -->  {headers: {"private-key": "23297651-6796-4c6a-b9a0-245fbbaa64db"}}
+
+
+nodejs-reactjs-chat\backend> npm run start 
+
+nodejs-reactjs-chat\frontend> npm run dev
+
+
+# Websites 
+
+https://blog.chatengine.io/fullstack-chat/nodejs-reactjs
+
