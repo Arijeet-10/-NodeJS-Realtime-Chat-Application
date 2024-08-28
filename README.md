@@ -22,3 +22,14 @@ Welcome to the repository for my **Node.js Realtime Chat** application! This pro
 - **Node.js** with **Express.js** for handling server-side logic
 - **Socket.io** for real-time communication
 - **MongoDB** for database management
+
+## 🚀 Getting Started
+
+Follow these steps to get the chat application up and running on your local machine:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/realtime-chat-app.git
+cd realtime-chat-app
+
