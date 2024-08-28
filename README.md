@@ -62,6 +62,13 @@ npm run start
 ### 5. Access the Application
 **Open your web browser and navigate to http://localhost:3000 to start chatting!**
 
+## 📷 Screenshots
+
+![home_page](https://github.com/user-attachments/assets/2838b111-73e3-459a-8a33-5c6215ad701d)
+
+![chats_page](https://github.com/user-attachments/assets/dfecd903-3d57-4473-89fa-cf564456917b)
+
+
 ## 🚧 Contributing
 **Feel free to fork this repository, submit issues, and make pull requests. Contributions are always welcome!**
 
