@@ -1,4 +1,4 @@
-# 🚀 Node.js Realtime Chat: A Full-Stack Application
+# *🚀 Node.js Realtime Chat: A Full-Stack Application*
 
 Welcome to the repository for my **Node.js Realtime Chat** application! This project showcases the development of a full-stack, real-time chat application using modern web technologies. It’s built to handle multiple users in a chat room, with instant messaging, user management, and more.
 
