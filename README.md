@@ -32,4 +32,30 @@ Follow these steps to get the chat application up and running on your local mach
 ```bash
 git clone https://github.com/yourusername/realtime-chat-app.git
 cd realtime-chat-app
+```
 
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Set Up Environment Variables
+
+```bash
+cp .env.example .env
+```
+
+
+### 4. Start the Application
+#### Development Mode
+
+```bash
+npm run dev
+```
+
+#### Production Mode
+
+```bash
+npm run start
+```
