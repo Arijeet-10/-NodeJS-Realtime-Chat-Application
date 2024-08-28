@@ -59,3 +59,12 @@ npm run dev
 ```bash
 npm run start
 ```
+### 5. Access the Application
+**Open your web browser and navigate to http://localhost:3000 to start chatting!**
+
+## 🚧 Contributing
+**Feel free to fork this repository, submit issues, and make pull requests. Contributions are always welcome!**
+
+## 📄 License
+**This project is licensed under the MIT License - see the LICENSE file for details.**
+
